@@ -522,18 +522,18 @@ li{
 }
 .facebook{
     background-color: #183E60;
-    background-image: url(../images/logo-facebook.png);
+    background-image: url(../main/assets/images/logo-facebook.png);
 }
 .twitter{
     background-color: #3D95F4;
-    background-image: url(../images/logo-twitter.png);
+    background-image: url(../main/assets/images/logo-twitter.png);
 }
 .youtube{
-    background-image: url(../images/logo-youtube.png);
+    background-image: url(../main/assets/images/logo-youtube.png);
     box-shadow: inset 0 0 5px 0 rgba(0,0,0,.5);
 }
 .instagram{
-    background-image: url(../images/logo-instagram.png);
+    background-image: url(../main/assets/images/logo-instagram.png);
 }
 .seal-row{
     display: flex;
